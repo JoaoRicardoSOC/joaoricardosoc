@@ -21,10 +21,6 @@
 <div><br /></div>
 <div><br /></div>
 
-<div align="center">
-  <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="80%" height="8px"/>
-</div>
-
 <h3 align="center">Meu stack</h3>
 
   ##
@@ -40,10 +36,6 @@
 <div><br /></div>
 <div><br /></div>
 
-<div align="center">
-  <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="80%" height="8px"/>
-</div>
-
 <h3 align="center">Entre em contato comigo</h3>
   
   ##
@@ -52,6 +44,8 @@
   <a href="https://www.instagram.com/joaoricardo2k25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoricardosoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div><br /></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoricardosoc/joaoricardosoc/output/github-contribution-grid-snake-dark.svg">
