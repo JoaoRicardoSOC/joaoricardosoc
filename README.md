@@ -1,6 +1,5 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/joaoricardosoc/">
-  <img height=200 align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQEzNF1Gw4xB4Q/profile-displaybackgroundimage-shrink_350_1400/B4DZc7uY41H4AY-/0/1749053706394?e=1754524800&v=beta&t=7TkJ5lNBQEfESfEXO3gah9LHkzK_uFlK6jzuC4AmEQ0" />
 </a>
 </div>
 
@@ -9,10 +8,6 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/joaoricardosoc">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoricardosoc&show_icons=true&theme=transparent&include_all_commits=true" />
-  </a>
-  
   <a href="https://github.com/joaoricardosoc">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoricardosoc&theme=transparent&layout=donut" />
   </a>
@@ -35,6 +30,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
 </div>
 </div>
 
