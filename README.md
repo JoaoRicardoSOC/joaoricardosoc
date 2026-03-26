@@ -7,12 +7,6 @@
   Engenheiro de Software
 </h3>
 
-<div align="center">
-  <a href="https://github.com/joaoricardosoc">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoricardosoc&theme=transparent&layout=donut" />
-  </a>
-</div>
-
 <div><br /></div>
 <div><br /></div>
 
