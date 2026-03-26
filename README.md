@@ -7,6 +7,8 @@
   Engenheiro de Software
 </h3>
 
+Me chamo João Ricardo, tenho 19 anos, sou nascido em Rondônia mas já passei por todo o país e atualmente estou cursando Engenharia de Software na FIAP. Sou portador de nanismo busco sempre treinar a mente para deixá-la gigante.
+
 <div><br /></div>
 <div><br /></div>
 
@@ -30,6 +32,26 @@
 
 <div><br /></div>
 <div><br /></div>
+
+<h3 align="center">Estatísticas</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=joaoricardosoc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoricardosoc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 <h3 align="center">Entre em contato comigo</h3>
   
