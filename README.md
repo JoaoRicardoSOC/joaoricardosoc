@@ -6,7 +6,7 @@
 
 ###
 
-<hp align="left">Me chamo João Ricardo, tenho 19 anos, sou nascido em Rondônia mas já passei por todo o país e atualmente estou cursando Engenharia de Software na FIAP. Sou portador de nanismo busco sempre treinar a mente para deixá-la gigante.</hp>
+<hp align="left">Me chamo João Ricardo, tenho 19 anos e desde cedo sou apaixonado por tecnologia, então por escolha óbvia, estou cursando Engenharia de Software na FIAP. Sou portador de nanismo e busco sempre treinar a mente para deixá-la gigante.</hp>
 
 ###
 
